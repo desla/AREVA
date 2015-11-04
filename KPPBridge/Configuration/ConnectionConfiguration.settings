@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Alvasoft.KPPBridge.Configuration" GeneratedClassName="ConnectionConfiguration">
+  <Profiles />
+  <Settings>
+    <Setting Name="OracleConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.1.11;User Id=areva;Password=areva;</Value>
+    </Setting>
+    <Setting Name="OpcServerHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.11</Value>
+    </Setting>
+    <Setting Name="OpcServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kepware.KEPServerEX.V5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

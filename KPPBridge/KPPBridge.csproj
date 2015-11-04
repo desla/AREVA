@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{84F0C0F3-3758-4DBB-92E5-0D372B43BADB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Alvasoft.KPPBridge</RootNamespace>
+    <AssemblyName>KPPBridge</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ConnectionHolders, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ConnectionHolder\ConnectionHolders\bin\Debug\ConnectionHolders.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.OPCAutomation, Version=1.0.0.0, Culture=neutral">
+      <HintPath>..\..\libs\Interop.OPCAutomation.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libs\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcTagAccessProvider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\denxc\OpcTagAccessProvider\bin\Debug\OpcTagAccessProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bridge\BridgeImpl.cs" />
+    <Compile Include="Buffer\IBuffer.cs" />
+    <Compile Include="Buffer\MemoryBufferImpl.cs" />
+    <Compile Include="Common\ValueParameter.cs" />
+    <Compile Include="Common\ValuesPackage.cs" />
+    <Compile Include="Configuration\ConnectionConfiguration.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>ConnectionConfiguration.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\LineConfiguration.cs" />
+    <Compile Include="Configuration\LinesConfiguration.cs" />
+    <Compile Include="Configuration\QueryParameter.cs" />
+    <Compile Include="ITS\IIts.cs" />
+    <Compile Include="ITS\ItsImpl.cs" />
+    <Compile Include="KppBridgeInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KppBridgeInstaller.Designer.cs">
+      <DependentUpon>KppBridgeInstaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KPP\IKpp.cs" />
+    <Compile Include="KPP\KppImpl.cs" />
+    <Compile Include="KppBridgeApp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Activity\IInitializable.cs" />
+    <Compile Include="Utils\Activity\InitializableImpl.cs" />
+    <Compile Include="Utils\Activity\InitializedException.cs" />
+    <Compile Include="Utils\Activity\NotInitializedException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Configuration\ConnectionConfiguration.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>ConnectionConfiguration.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Settings\LinesConfiguration.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Settings\Logging.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utils\Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="KppBridgeInstaller.resx">
+      <DependentUpon>KppBridgeInstaller.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
