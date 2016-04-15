@@ -1,0 +1,40 @@
+2015-11-04 12:57:47,124 [BridgeImpl] ERROR - Ошибка при деинициализации: Не инициализован.
+2015-11-04 13:00:51,360 [ItsImpl] ERROR - Ошибка при соранении данных в ИТС: Операция является недопустимой из-за текущего состояния объекта.
+2015-11-04 13:05:19,522 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: ORA-01089: immediate shutdown in progress - no operations are permitted
+2015-11-04 13:05:19,667 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12528: TNS:listener: all appropriate instances are blocking new connections
+2015-11-04 13:05:24,525 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:24,530 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:29,530 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:29,536 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:34,539 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:34,544 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:39,548 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:39,553 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:44,557 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:44,596 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:49,561 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:49,566 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:54,570 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:54,575 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:05:59,578 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:05:59,584 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:04,591 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:04,596 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:09,493 [ItsImpl] ERROR - Ошибка при сохранении данных в ИТС: Ссылка на объект не указывает на экземпляр объекта.
+2015-11-04 13:06:09,596 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:09,604 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:14,604 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:14,609 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:19,614 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:19,619 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:24,614 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:24,619 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:29,623 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:29,629 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12514: TNS:listener does not currently know of service requested in connect descriptor
+2015-11-04 13:06:34,632 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:34,635 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12528: TNS:listener: all appropriate instances are blocking new connections
+2015-11-04 13:06:39,641 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:39,648 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-12528: TNS:listener: all appropriate instances are blocking new connections
+2015-11-04 13:06:44,650 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation
+2015-11-04 13:06:44,700 [OracleConnectionHolder] ERROR - Ошибка во время подключения: ORA-01033: ORACLE initialization or shutdown in progress
+2015-11-04 13:06:49,659 [OracleConnectionHolder] ERROR - Ошибка во время проверки подключения: Connection must be open for this operation

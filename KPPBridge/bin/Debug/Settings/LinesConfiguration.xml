@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinesConfiguration>
+  <!-- Запрос для вставки в БД ИТС. Первые 2 параметра менять НЕЛЬЗЯ, остальные настраиваются ниже.-->
+  <InsertQuery>insert into CSDATA(DATA_TIME, LINE_ID, LINE_CURRENT_SETPOINT, LINE_CURRENT, LINE_VOLTAGE, POTROOM1_VOLTAGE, POTROOM2_VOLTAGE, POTROOM3_VOLTAGE, POTROOM4_VOLTAGE, POTROOM5_VOLTAGE) values(:data_time, :line_id, :line_current_setpoint, :line_current, :line_voltage, :potroom1_voltage, :potroom2_voltage, :potroom3_voltage, :potroom4_voltage, :potroom5_voltage)</InsertQuery>
+  <Parameters>    
+    <string>line_current_setpoint</string>
+    <string>line_current</string>
+    <string>line_voltage</string>
+    <string>potroom1_voltage</string>
+    <string>potroom2_voltage</string>
+    <string>potroom3_voltage</string>
+    <string>potroom4_voltage</string>
+    <string>potroom5_voltage</string>
+  </Parameters>
+  <!-- Список серий.-->
+  <Lines>
+    <LineConfiguration>
+      <!-- Идентификатор серии.-->
+      <Id>1</Id>
+      <!-- Интервал в минутах, через который будет происходить передача данных. Начинается от начала суток.-->
+      <Interval>1</Interval>      
+      <!-- Параметры для передачи в БД.-->
+      <Parameters>
+        <QueryParameter>
+          <Name>line_current_setpoint</Name>
+          <OpcTag>RTS1_SRV1.POTLINE.L3_SETPOINT</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>line_current</Name>
+          <OpcTag>RTS1_SRV1.POTLINE.DCCURRENT</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>line_voltage</Name>
+          <OpcTag>RTS1_SRV1.POTLINE.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>potroom1_voltage</Name>
+          <OpcTag>RTS1_SRV1.G01.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>potroom2_voltage</Name>
+          <OpcTag>RTS1_SRV1.G02.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>potroom3_voltage</Name>
+          <OpcTag>RTS1_SRV1.G03.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>potroom4_voltage</Name>
+          <OpcTag>RTS1_SRV1.G04.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+        <QueryParameter>
+          <Name>potroom5_voltage</Name>
+          <OpcTag>RTS1_SRV1.G05.DCVOLTAGE</OpcTag>
+        </QueryParameter>
+      </Parameters>
+    </LineConfiguration>
+  </Lines>
+</LinesConfiguration>

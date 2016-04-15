@@ -1,0 +1,17 @@
+D:\repositories\AREVA\KPPBridge\bin\Debug\KPPBridge.exe.config
+D:\repositories\AREVA\KPPBridge\bin\Debug\KPPBridge.exe
+D:\repositories\AREVA\KPPBridge\bin\Debug\KPPBridge.pdb
+D:\repositories\AREVA\KPPBridge\obj\x86\Debug\KPPBridge.exe
+D:\repositories\AREVA\KPPBridge\obj\x86\Debug\KPPBridge.pdb
+D:\repositories\AREVA\KPPBridge\bin\Debug\Settings\LinesConfiguration.xml
+D:\repositories\AREVA\KPPBridge\bin\Debug\ConnectionHolders.dll
+D:\repositories\AREVA\KPPBridge\bin\Debug\Interop.OPCAutomation.dll
+D:\repositories\AREVA\KPPBridge\bin\Debug\log4net.dll
+D:\repositories\AREVA\KPPBridge\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\repositories\AREVA\KPPBridge\obj\x86\Debug\KPPBridge.csprojResolveAssemblyReference.cache
+D:\repositories\AREVA\KPPBridge\bin\Debug\Settings\Logging.xml
+D:\repositories\AREVA\KPPBridge\bin\Debug\OpcTagAccessProvider.dll
+D:\repositories\AREVA\KPPBridge\obj\x86\Debug\Alvasoft.KPPBridge.KppBridgeInstaller.resources
+D:\repositories\AREVA\KPPBridge\obj\x86\Debug\KPPBridge.csproj.GenerateResource.Cache
+D:\repositories\AREVA\KPPBridge\bin\Debug\ConnectionHolders.pdb
+D:\repositories\AREVA\KPPBridge\bin\Debug\OpcTagAccessProvider.pdb

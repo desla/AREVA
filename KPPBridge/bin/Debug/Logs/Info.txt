@@ -1,0 +1,314 @@
+2015-11-04 12:45:31,839 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:46:44,882 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:50:09,431 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:50:13,891 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 12:50:13,892 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 12:50:13,893 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 12:50:18,918 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:50:18,921 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 12:50:19,065 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:50:19,066 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 12:50:23,918 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:50:24,075 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:50:28,926 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:50:29,084 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:50:33,935 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:50:34,092 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:50:35,214 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 12:50:35,241 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 12:50:35,241 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 12:50:35,241 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 12:50:35,246 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 12:50:35,246 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 12:50:35,277 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 12:50:35,277 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 12:51:02,871 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:51:03,851 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 12:51:03,851 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 12:51:03,851 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 12:51:08,865 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:08,867 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 12:51:08,910 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:08,910 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 12:51:13,869 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:13,918 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:18,878 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:18,925 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:23,886 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:23,933 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:28,894 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:28,937 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:33,896 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:33,943 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:38,905 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:51:38,951 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:51:41,412 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 12:51:41,436 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 12:51:41,436 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 12:51:41,437 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 12:51:41,442 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 12:51:41,443 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 12:51:41,458 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 12:51:41,458 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 12:57:43,694 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:57:45,674 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 12:57:45,674 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 12:57:45,674 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 12:57:47,123 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 12:57:47,124 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 12:59:49,405 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 12:59:50,369 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 12:59:50,369 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 12:59:50,370 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 12:59:55,383 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 12:59:55,385 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 12:59:55,390 [KppImpl] INFO  - Инициализация...
+2015-11-04 12:59:55,426 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 12:59:55,427 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 12:59:55,484 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 13:00:00,387 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:00,437 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:05,399 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:05,438 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:08,103 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 13:00:08,103 [KppImpl] INFO  - Деинициализация...
+2015-11-04 13:00:08,123 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 13:00:08,124 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:00:08,124 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:00:08,124 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:00:08,127 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 13:00:08,128 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:00:08,141 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 13:00:08,141 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 13:00:25,187 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 13:00:26,144 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 13:00:26,144 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 13:00:26,144 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 13:00:31,158 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:31,160 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 13:00:31,163 [KppImpl] INFO  - Инициализация...
+2015-11-04 13:00:31,209 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:31,209 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 13:00:31,270 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 13:00:36,162 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:36,212 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:41,163 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:41,211 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:46,171 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:46,220 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:51,182 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:51,230 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:00:51,273 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:00:51,327 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:00:51,361 [BridgeImpl] INFO  - Сохранение данных серии 1 в буфер
+2015-11-04 13:00:56,187 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:00:56,234 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:01:01,195 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:01:01,242 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:01:05,412 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 13:01:05,413 [KppImpl] INFO  - Деинициализация...
+2015-11-04 13:01:05,437 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 13:01:05,438 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:01:05,438 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:01:05,438 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:01:05,443 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 13:01:05,444 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:01:05,461 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 13:01:05,461 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 13:03:03,251 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 13:03:04,211 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 13:03:04,211 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 13:03:04,211 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 13:03:09,216 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:09,219 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 13:03:09,222 [KppImpl] INFO  - Инициализация...
+2015-11-04 13:03:09,261 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:09,262 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 13:03:09,317 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 13:03:14,250 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:14,268 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:19,258 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:19,274 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:24,270 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:24,283 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:29,275 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:29,291 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:29,323 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:03:29,334 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:03:34,284 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:34,298 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:39,291 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:39,307 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:44,299 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:44,315 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:49,301 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:49,318 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:54,308 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:54,325 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:03:59,317 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:03:59,333 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:04,325 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:04,342 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:09,333 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:09,345 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:04:09,347 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:09,352 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:04:14,340 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:14,355 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:19,348 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:19,364 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:24,356 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:24,372 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:29,362 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:29,378 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:34,371 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:34,387 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:39,379 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:39,398 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:44,388 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:44,404 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:49,397 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:49,412 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:54,404 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:54,420 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:04:59,413 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:04:59,430 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:05:04,422 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:04,433 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:05:09,375 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:05:09,382 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:05:09,423 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:09,444 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:05:14,439 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:14,453 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:05:19,445 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:19,523 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:19,523 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 13:05:24,446 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:24,525 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:29,453 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:29,531 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:34,461 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:34,539 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:39,469 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:39,548 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:44,478 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:44,557 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:49,483 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:49,561 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:54,492 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:54,570 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:05:59,500 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:05:59,578 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:04,512 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:04,591 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:09,419 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:06:09,425 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:06:09,494 [BridgeImpl] INFO  - Сохранение данных серии 1 в буфер
+2015-11-04 13:06:09,519 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:09,596 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:14,526 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:14,605 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:19,535 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:19,614 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:24,538 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:24,614 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:29,546 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:29,623 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:34,554 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:34,632 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:39,563 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:39,641 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:44,575 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:44,650 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:49,580 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:49,659 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: НЕ успешно.
+2015-11-04 13:06:54,589 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:06:55,090 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:06:55,091 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 13:06:59,590 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:07:00,090 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:07:04,600 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:07:05,101 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:07:09,449 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 13:07:09,456 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 13:07:09,606 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:07:10,105 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:07:14,614 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 13:07:15,116 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 13:07:17,576 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 13:07:17,577 [KppImpl] INFO  - Деинициализация...
+2015-11-04 13:07:17,602 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 13:07:17,604 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:07:17,606 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:07:17,608 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 13:07:17,616 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 13:07:17,617 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 13:07:17,622 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 13:07:17,623 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 16:09:12,772 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 16:09:17,967 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 16:09:17,968 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 16:09:17,968 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 16:09:22,996 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 16:09:22,999 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 16:09:23,001 [KppImpl] INFO  - Инициализация...
+2015-11-04 16:09:23,082 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 16:09:23,083 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 16:09:23,116 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 16:09:43,111 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 16:09:43,162 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 16:09:46,672 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 16:09:46,673 [KppImpl] INFO  - Деинициализация...
+2015-11-04 16:09:46,695 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 16:09:46,696 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 16:09:46,697 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 16:09:46,698 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 16:09:46,706 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 16:09:46,707 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 16:09:46,757 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 16:09:46,757 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 17:19:38,840 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 17:19:47,149 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 17:19:47,149 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 17:19:47,150 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 17:19:52,415 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 17:19:52,418 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 17:19:52,421 [KppImpl] INFO  - Инициализация...
+2015-11-04 17:19:52,535 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 17:19:52,535 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 17:19:54,524 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 17:20:14,531 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 17:20:14,647 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 17:20:40,972 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 17:20:40,973 [KppImpl] INFO  - Деинициализация...
+2015-11-04 17:20:41,002 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 17:20:41,002 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 17:20:41,003 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 17:20:41,003 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 17:20:41,008 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 17:20:41,008 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 17:20:41,125 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 17:20:41,126 [BridgeImpl] INFO  - Деинициализация завершена.
+2015-11-04 17:50:31,879 [BridgeImpl] INFO  - Инициализация...
+2015-11-04 17:50:36,804 [ConnectionHolderBase] INFO  - OPC - запуск держателя подключения.
+2015-11-04 17:50:36,804 [ConnectionHolderBase] INFO  - Oracle - запуск держателя подключения.
+2015-11-04 17:50:36,804 [BridgeImpl] INFO  - Инициализация завершена.
+2015-11-04 17:50:41,832 [ConnectionHolderBase] INFO  - OPC - проверка подключения: успешно.
+2015-11-04 17:50:41,835 [BridgeImpl] INFO  - Подключен OPC
+2015-11-04 17:50:41,857 [KppImpl] INFO  - Инициализация...
+2015-11-04 17:50:41,955 [KppImpl] INFO  - Инициализация завершена.
+2015-11-04 17:50:41,957 [ConnectionHolderBase] INFO  - Oracle - проверка подключения: успешно.
+2015-11-04 17:50:41,958 [BridgeImpl] INFO  - Подключен Oracle
+2015-11-04 17:51:01,967 [BridgeImpl] INFO  - Получение данных серии 1
+2015-11-04 17:51:01,978 [BridgeImpl] INFO  - Передача данных серии 1 в ИТС.
+2015-11-04 17:51:04,365 [BridgeImpl] INFO  - Деинициализация...
+2015-11-04 17:51:04,366 [KppImpl] INFO  - Деинициализация...
+2015-11-04 17:51:04,387 [KppImpl] INFO  - Деинициалиация завершена.
+2015-11-04 17:51:04,388 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 17:51:04,388 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 17:51:04,389 [ConnectionHolderBase] INFO  - OPC - остановка держателя подключения.
+2015-11-04 17:51:04,396 [BridgeImpl] INFO  - Отключен OPC
+2015-11-04 17:51:04,397 [ConnectionHolderBase] INFO  - Oracle - остановка держателя подключения.
+2015-11-04 17:51:04,434 [BridgeImpl] INFO  - Отключен Oracle
+2015-11-04 17:51:04,435 [BridgeImpl] INFO  - Деинициализация завершена.
